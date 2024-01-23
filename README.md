@@ -195,7 +195,7 @@ For predicting on videos using the trained model, use the following command:
 
    ```bash
    python predict.py model='best.pt' source='vid.mp4'
-
+   ```
 Replace 'best.pt' with the path to your trained model weights file and 'vid.mp4' with the path to the input video file.
 
 Feel free to explore and customize the codebase according to your requirements. If you encounter any issues or have questions, refer to the documentation or seek assistance from the community.
